@@ -22,6 +22,7 @@ h1 {
 h2 {
   font-size: 34px;
   font-weight: 200;
+  text-transform: capitalize;
 }
 h3 {
   font-size: 40px;
